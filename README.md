@@ -52,5 +52,11 @@ In the context of a whole-farm simulator, the model can be applied at a field sc
 ## Keywords
 mechanistic dynamic model, permanent grassland, functional traits
 
+## Run the model
+
+```
+> python3 ./run_modvege.py
+```
+
 [^1]: Jouven et al., 2006. Model predicting dynamics of biomass, structure and digestibility of herbage in managed permanent pastures. 1. Model description. In Grass and Forage Science, 61, 112–124.
 [^2]: Kindly provided by Raphael Martin, INRAE UREP Clermont-Ferrand
