@@ -13,10 +13,10 @@ grass groups.
 The sward is subdivided into four structural compartments: 
 
 ```
-1 - Green leaves and sheath, 
-2 - Dead leaves and sheath, 
-3 - Green stems and flowers, 
-4 - Dead stems and flowers. 
+1 - Green leaves and sheath 
+2 - Dead leaves and sheath 
+3 - Green stems and flowers 
+4 - Dead stems and flowers 
 ```
 
 Each compartment is characterized by its biomass, age and digestibility. 
@@ -36,15 +36,15 @@ The functional traits of the grass groups were parameterized for temperate pastu
 The other model inputs are few:
 
 ```
-1 - proportion of functional groups
-2 - basic weather data:
-    - incident photosynthetically active radiation
-    - mean daily temperature
-    - precipitation
-    - potential evapotranspiration
-3 - site characteristics:
-    - nitrogen nutrition index
-    - soil water-holding capacity
+1 - Proportion of functional groups
+2 - Basic weather data:
+    + Incident photosynthetically active radiation
+    + Mean daily temperature
+    + Precipitation
+    + Potential evapotranspiration
+3 - Site characteristics:
+    + Nitrogen nutrition index
+    + Soil water-holding capacity
 ```
 
 In the context of a whole-farm simulator, the model can be applied at a field scale.
