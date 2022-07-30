@@ -1,6 +1,8 @@
 # modvege
 ModVege pasture model[^1], translated from Java[^2] to Python
 
+![ModVege Output](Figure_1.png "ModVege Output")
+
 To investigate seasonal and annual interactions between management and grassland dynamics, a simple mechanistic model of the dynamics of production, structure and digestibility in permanent pastures was constructed. 
 
 The model is designed to respond to various defoliation regimes, perform multiple-year simulations and produce simple outputs that are easy to use as inputs for a model of ruminant livestock production. 
