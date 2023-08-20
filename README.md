@@ -1,4 +1,7 @@
 # modvege
+
+NOTE: The newest version of this code is published as EUPL in https://code.europa.eu/agri4cast
+
 ModVege pasture model[^1], translated from Java[^2] to Python
 
 ![ModVege Output](Figure_1.png "ModVege Output")
